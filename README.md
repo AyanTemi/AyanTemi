@@ -5,7 +5,7 @@
 - 📫 How to reach me 
 - email: ayanotemitope@gmail.com
 - linkedin: http://linkedin.com/in/temitopeayano
-- websit: ayanotemitope.name.ng
+- website: http://ayanotemitope.name.ng
 
 <!---
 AyanTemi/AyanTemi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
