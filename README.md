@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Temitope Ayano
 - 👀 I’m interested in Data science, Machine Learning, Genomics and Bioinformatics
-- 🌱 I’m currently learning genomic Data science in the HackBio workshop.
-- 💞️ I’m looking to collaborate on bioinformatics related project
-- 📫 How to reach me 
+- 🌱 I’m a Data science Felllow of the Women Techsters programme.
+- 💞️ I’m looking to collaborate on data science and bioinformatics related project
+- 📫 You can reach me via:
 - [email](ayanotemitope@gmail.com)
 - [linkedin](http://linkedin.com/in/temitopeayano)
 - [website](http://ayanotemitope.name.ng)
