@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Temitope Ayano
-- 👀 I’m interested in Data science, Machine Learning, Genomics and Bioinformatics
-- 🌱 I’m a Data science Felllow of the Women Techsters '23 Fellowship and a Data Analyst Nanodegree student at ALX-T Udacity.
+- 👀 I’m interested in Data science, Machine Learning and Bioinformatics
+- 🌱 I’m a Data science Felllow in the Women Techsters '23 Fellowship and a graduate of ALX-T Udacity Data Analyst Nanodegree programme.
 - 💞️ I’m looking to collaborate on data science and bioinformatics related project
 - 📫 You can reach me via:
 - [email](ayanotemitope@gmail.com)
